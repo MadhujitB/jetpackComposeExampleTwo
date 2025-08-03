@@ -1,1 +1,2 @@
-Token: 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
+
+No token!
