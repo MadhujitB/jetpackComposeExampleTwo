@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Jetpack Compose Second App"
 include(":app")
- 
+include(":composelogin")
